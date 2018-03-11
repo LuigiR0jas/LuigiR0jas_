@@ -1,14 +1,14 @@
-STRML.net
+LuigiR0jas.xyz
 =========
 
-[View Site](http://strml.net)
+[View Site](http://luigir0jas.xyz)
 
 Building
 --------
 
 ```bash
-git clone git@github.com:STRML/strml.net.git
-cd strml.net
+git clone git@github.com:LuigiR0jas/LuigiR0jas_.git
+cd LuigiR0jas_
 npm install
 npm run dev
 # Open localhost:4003/index-dev.html in your browser
